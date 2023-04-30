@@ -1,6 +1,6 @@
 # Real-Time-Virtual-Painter-Using-AI
 
-The Real-Time Virtual Painter Using AI is a project aimed at developing a virtual painting tool that uses artificial intelligence to track hand movements and convert them into digital paintings. The project will utilize machine learning algorithms to detect and track hand landmarks, which will then be used to draw on the screen in real-time.
+The Real-Time Virtual Painter Using AI is a project aimed at developing a virtual painting tool that uses artificial intelligence to track hand movements and convert them into digital paintings. The project utilizes machine learning algorithms to detect and track hand landmarks, which will then be used to draw on the screen in real-time.
 
 The virtual painter uses a simple hand gesture interface, where two fingers is used for selection and one finger is used for drawing. The user can select the desired color and the system will then detect the selected color and use them to draw on the screen.
 
