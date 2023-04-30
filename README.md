@@ -7,3 +7,7 @@ The virtual painter uses a simple hand gesture interface, where two fingers is u
 The project is developed using Python and OpenCV for hand tracking and detection. The project also leverages real-time processing capabilities to provide users with a seamless painting experience.
 
 This project aims to provide a fun and interactive way for users to express their creativity and explore digital painting using AI technology. The real-time painting tool will allow users to see their paintings come to life in real-time, making the experience more engaging and immersive.
+
+
+https://user-images.githubusercontent.com/88431384/235338707-ab271ad5-c281-42be-9857-5c079f6bd22b.mp4
+
